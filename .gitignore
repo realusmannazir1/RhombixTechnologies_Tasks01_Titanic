@@ -1,7 +1,5 @@
-# Virtual environments
-venv/
-env/
-*_env/
+# Virtual environment
+titanic_env/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
@@ -9,6 +7,7 @@ env/
 # Python cache
 __pycache__/
 *.pyc
+*.pyo
 
 # OS files
 .DS_Store
