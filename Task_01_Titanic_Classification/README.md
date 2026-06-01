@@ -39,6 +39,8 @@ Predict whether a passenger survived the Titanic disaster using features like ag
 | Logistic Regression | ~80% |
 | Random Forest | ~82% |
 
+![Titanic Classification](./PIC.png)
+
 ---
 
 ## 🛠️ Libraries Used
